@@ -1,0 +1,10 @@
+{
+  "_id": {
+    "$oid": "669fdd28caa72ed26a0ef9a9"
+  },
+  "email": "a@r.com",
+  "password": "$2a$08$1ZPoikKQ5fv2bC9HtCHbq.2j97wgLBnIchgKMWtRfuoDgy/RVNBO6",
+  "firstName": "test",
+  "lastName": "test_e2e",
+  "__v": 0
+}
